@@ -1,0 +1,3 @@
+type MenuEventType = {
+  id: string;
+};
